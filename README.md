@@ -6,7 +6,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Rails version: 6.1.7.2
+
+* Ruby version: 3.0.1
+
+* Node version: 16.14.0
 
 * System dependencies
 
