@@ -1,4 +1,5 @@
-# README
+
+![Yay! You're on Rails!](./public/you-are-on-rails.jpeg "You're on Rails")
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
